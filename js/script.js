@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', function() {
     
-    let allTime = 63;
+    let allTime = 60 * 30;
     let timer;
     const seconds = document.getElementById('seconds');
     const minutes = document.getElementById('minutes');
